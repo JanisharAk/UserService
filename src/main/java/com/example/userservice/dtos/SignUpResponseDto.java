@@ -10,5 +10,6 @@ public class SignUpResponseDto {
     private String name;
     private String email;
     private boolean isEmailVerified;
-    private long id;
+   // private long id;
+   // private String password;
 }
